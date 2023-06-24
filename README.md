@@ -5,9 +5,10 @@ Aplicativo de agendamento em barbearia, com opção de ampliação para outros p
 
 ## Screenshots
 
-![priceScreen](https://github.com/TheGVictor/BarberShop-React-Native/assets/86200641/d6f49549-f60d-4d6e-a184-4896de16be90)
-![loginScreen](https://github.com/TheGVictor/BarberShop-React-Native/assets/86200641/82eb7c61-7159-4532-b141-bf9b11b775ae)
-![barberScreen](https://github.com/TheGVictor/BarberShop-React-Native/assets/86200641/ec3ff543-f344-48b3-af10-0984069cb857)
+![priceScreen](https://github.com/TheGVictor/BarberShop-ReactNative/assets/86200641/6d5ec68d-0725-447f-8503-5b0c453135a2)
+![loginScreen](https://github.com/TheGVictor/BarberShop-ReactNative/assets/86200641/47ed01b7-1397-4373-aa3a-d535fbc99680)
+![barberScreen](https://github.com/TheGVictor/BarberShop-ReactNative/assets/86200641/0ae25d34-3666-410f-98b6-887fce07c6b3)
+
 
 
 ## Instalação
