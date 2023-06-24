@@ -24,7 +24,7 @@ Instale e verique meu projeto utilizando o Expo:
     
 
 # Referência
- - [Canal Bonieky Lacerda](https://www.youtube.com/@bonieky)
+ - Feito com as instruções do Professor [Bonieky Lacerda](https://www.youtube.com/@bonieky), no curso b7Web
   
 
 ## 🔗 Links
