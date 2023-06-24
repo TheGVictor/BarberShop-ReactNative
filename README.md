@@ -21,6 +21,11 @@ Instale e verique meu projeto utilizando o Expo:
   - npm install
   - npm start
   - Feito!
+    
+
+# Referência
+ - [Canal Bonieky Lacerda]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://www.youtube.com/@bonieky))
+  
 
 ## 🔗 Links
 
