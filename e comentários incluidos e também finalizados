@@ -1,0 +1,48 @@
+[33mcommit a53e286e88e98886bbe44bd9555ec159246a2841[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: e0c103c 7060ecf
+Author: Gabriel Sancinetti <gabrielsancinetti@gmail.com>
+Date:   Wed Jun 28 10:22:02 2023 -0300
+
+    Ajustando MERGE
+
+[33mcommit e0c103ca92b814962b3ca574451e1e853a1ff782[m
+Author: Gabriel Sancinetti <gabrielsancinetti@gmail.com>
+Date:   Wed Jun 28 10:19:30 2023 -0300
+
+    Tela do barbeiro finalizada, com notas e comentários incluidos e também finalizados
+
+[33mcommit 7060ecf50f46bd128fc4db8f317321bac6dba6f5[m
+Author: Gabriel Sancinetti <86200641+TheGVictor@users.noreply.github.com>
+Date:   Sat Jun 24 01:29:39 2023 -0300
+
+    Update README.md
+
+[33mcommit 7a2e87578512cbcabca033a8bbfeee1a11d65cd3[m
+Author: Gabriel Sancinetti <86200641+TheGVictor@users.noreply.github.com>
+Date:   Sat Jun 24 01:27:51 2023 -0300
+
+    Update README.md
+
+[33mcommit fca7254e23e27e7e76f242b208788fed8d58ca3f[m
+Author: Gabriel Sancinetti <86200641+TheGVictor@users.noreply.github.com>
+Date:   Sat Jun 24 01:27:26 2023 -0300
+
+    Update README.md
+
+[33mcommit 2c81b2759a6bc03e05e7a40b6bffe83a8c79960c[m
+Author: Gabriel Sancinetti <86200641+TheGVictor@users.noreply.github.com>
+Date:   Sat Jun 24 01:24:23 2023 -0300
+
+    README.md criado
+
+[33mcommit 8524dac0f3d8087f5b868f287f0befbdbf4971c8[m
+Author: Gabriel Sancinetti <86200641+TheGVictor@users.noreply.github.com>
+Date:   Sat Jun 24 01:23:13 2023 -0300
+
+    Create README.md
+
+[33mcommit 71d40e1b23aa73806e273f3eeeb83992bd5c25be[m
+Author: Gabriel Sancinetti <gabrielsancinetti@gmail.com>
+Date:   Sat Jun 24 01:18:40 2023 -0300
+
+    Criando a tela do perfil do barbeiro

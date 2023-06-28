@@ -4,6 +4,7 @@ import { useNavigation, useRoute } from "@react-navigation/native";
 import Swiper from "react-native-swiper";
 
 import Stars from "../../components/Stars";
+import BarberModal from '../../components/BarberModal'
 
 import FavoriteFullIcon from '../../assets/favorite_full.svg'
 import FavoriteIcon from '../../assets/favorite.svg'
@@ -66,6 +67,8 @@ export default () => {
 
             const [loading, setLoading] = useState(false)
             const [favorited, setFavorited] = useState(false)
+            const [selectedService, setSelectedService] = useState(null)
+            const [showModal, setShowModal] = useState(false)
         
             useEffect(() => {
                 const getBarberInfo = async () => {
@@ -89,6 +92,11 @@ export default () => {
             const handleFavClick = () => {
                 setFavorited(!favorited)
                 Api.setFavorite(userInfo.id)
+            }
+
+            const handleServiceChoose = (key) =>{
+                setSelectedService(key)
+                setShowModal(true)
             }
 
     return(
@@ -150,7 +158,7 @@ export default () => {
                                     </ServiceName>
                                     <ServicePrice>R${item.price}</ServicePrice>
                                 </ServiceInfo>
-                                <ServiceChooseButton>
+                                <ServiceChooseButton onPress = {() => handleServiceChoose(key)}>
                                     <ServiceChooseBtnText>Agendar</ServiceChooseBtnText>
                                 </ServiceChooseButton>
                             </ServiceItem>
@@ -189,6 +197,14 @@ export default () => {
             <BackButton onPress = {handleBackButton}>
                 <BackIcon width = "24" height = "44" fill = "#FFF"/>
             </BackButton>
+
+                    <BarberModal
+                        show = {showModal}
+                        setShow= {setShowModal}
+                        user = {userInfo}
+                        service = {selectedService}
+                    />
+
         </Container>
     )
 }
