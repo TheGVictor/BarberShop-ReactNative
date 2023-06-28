@@ -21,6 +21,11 @@ Instale e verique meu projeto utilizando o Expo:
   - npm install
   - npm start
   - Feito!
+    
+
+# Referência
+ - Feito com as instruções do Professor [Bonieky Lacerda](https://www.youtube.com/@bonieky), no curso b7Web
+  
 
 ## 🔗 Links
 
